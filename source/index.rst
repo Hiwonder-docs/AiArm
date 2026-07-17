@@ -19,4 +19,4 @@ AiArm
    docs/6.Vision Recognition and Applications.md
    docs/7.Vision Recognition and Application.md
    docs/8.Appendix.md
-   Download <https://drive.google.com/drive/folders/1htzDQWoyVRqjc6cxVN9oeFAGCPcmdeLI?usp=sharing>
+   Download <https://drive.google.com/drive/folders/1oWBCHLSGf2UW_Dl-dHeH2TrqBaeGpMJj?usp=sharing>
